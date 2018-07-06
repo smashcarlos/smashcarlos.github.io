@@ -1,0 +1,12 @@
+body {
+    background-color:lightgray;
+    color:blue;
+}
+#linksfive a{
+    background-color: darkgray;
+    color:cyan;
+    border-radius: 15px;
+    padding: 20px;
+    text-decoration: none;
+    border: 2px black solid;
+}
